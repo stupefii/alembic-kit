@@ -1,6 +1,6 @@
 ---
 title: ''
-feature_image: https://picsum.photos/1300/400?image=989
+feature_image: /uploads/90c40d22-0dec-46d1-a401-61821e70ba2e.jpeg
 feature_text: "## 你大爺的！"
 
 ---
